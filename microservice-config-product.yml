@@ -71,4 +71,4 @@ eureka:
     instanceId: ${spring.application.name}:${server.port}  #
     preferIpAddress: true   #访问路径可以显示IP地址
 emp:
-  name:zhangsan
+  name: zhangsan
